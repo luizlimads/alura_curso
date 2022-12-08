@@ -1,0 +1,24 @@
+Atributos privados __nome - double underscore - atributo protegido para nao ser usado fora da classe
+
+@property - propriedade retornar 
+
+@nome.setter - inserir valor dentro da propriedade
+
+Herança em python class Filha(Mae) - atributo privado não vai para as classes filhas
+
+super() chama o inicializador da classe mae
+
+polimorfismo estruturas parecidas não se preoculapa com o tipo
+
+metodos dunder - representação testual do objeto print(objeto)
+
+Duck typing - dunder method \_\_getitem__  classe interavel, interface e reuso, extensão, composição. Interface simples são importantes
+
+Python Data model
+
+Python abstract - ABC - abstract base classe validacao e inspecao
+
+Herança multipla - separadas por virgulas - algoritimo mro ordem de execucao, faz sentido usar?
+
+classe mixing compartilhamento de comportamentos menos importantes da clase
+
